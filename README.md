@@ -6,6 +6,6 @@ In addition, the project uses the LSTM neural network to make predictions. By in
 The project combines the SEIR model and LSTM predictions to forecast the trend of COVID-19 epidemics.
 
 Some figures:
-![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_basic.png)
+[![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_basic.png)](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/raw/master/SEIR_basic.png)
 ![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200123_Intervention.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200202_Intervention.png)
 ![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_active_predict.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_new_predict.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_cum_pred.png)
