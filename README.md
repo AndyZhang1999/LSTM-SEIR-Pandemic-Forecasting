@@ -7,5 +7,6 @@ The project combines the SEIR model and LSTM predictions to forecast the trend o
 
 Some figures:
 [![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_basic.png)](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/raw/master/SEIR_basic.png)
-![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200123_Intervention.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200202_Intervention.png)
+![image](https://github.com/AndyZhang1999/LSTM-SEIR-Pandemic-Forecasting/assets/90740478/df7de464-5ea0-4c95-a420-ebdc4bd5a84e)
+![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200202_Intervention.png)
 ![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_active_predict.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_new_predict.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_cum_pred.png)
