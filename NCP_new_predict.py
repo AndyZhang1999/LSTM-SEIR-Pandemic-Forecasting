@@ -18,7 +18,6 @@ print(data, '\n', value)
 import pandas as pd
 df = pd.read_excel('real_data.xlsx')#这个会直接默认读取到这个Excel的第一个表单
 value = df['湖北新增确诊'].values[0:67]
-#value = df['全国累计确诊'].values[10:50]
 print(len(value))
 
 
