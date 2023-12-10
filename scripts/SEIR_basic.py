@@ -1,5 +1,5 @@
 # SEIR传染病模型仿真
-"View more, visit my github repository: https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM"
+
 '没有解析解，ode求解数值解'
 '重点是动力学模型的准确性（SEIR还是SEIRS、SIQR、SIQS模型，以及媒体宣传和随机因素的影响），难点是beta，gamma，sigma/Te的取值'
 '模型忽略迁入率和迁出率，死亡率，参数设置参考钟院士等文章http://dx.doi.org/10.21037/jtd.2020.02.64'
